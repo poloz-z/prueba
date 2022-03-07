@@ -1,0 +1,1 @@
+print("fufito modo crack")
